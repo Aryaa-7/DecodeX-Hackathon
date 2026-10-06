@@ -1,0 +1,5 @@
+room_id,capacity,room_type,special_equipment,projector,accessible
+R001,100,lecture hall,none,true,true
+R002,60,laboratory,network lab,true,true
+R003,60,laboratory,network lab,true,true
+R004,100,lecture hall,none,true,true

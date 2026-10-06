@@ -1,0 +1,3 @@
+faculty_id,dept,designation,weekly_teaching_hours,max_weekly_hours,unavailable_slots,preferred_days
+F007,CSE,Professor,10,20,,Mon;Tue
+F008,CSE,Professor,10,20,,Wed;Thu
